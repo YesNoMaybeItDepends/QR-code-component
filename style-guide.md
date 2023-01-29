@@ -24,3 +24,8 @@ The designs were created to the following widths:
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
+
+
+# My notes
+
+- image is 576x576
